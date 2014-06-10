@@ -1,4 +1,6 @@
 ci-public
 =========
 
-Public face of the Conservation International project
+## Team Members:
+ - Scott Cambo - scottallencambo@gmail.com
+ - Nadya Calderon - nadya.calderon@gmail.com
